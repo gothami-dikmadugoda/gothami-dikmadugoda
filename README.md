@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gothami Chamodika</h1>
 <h3 align="center">A creative problem solver diving into code, design, and innovation</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gothami-dikmadugoda" alt="gothami-dikmadugoda" /></a> </p>
-
 - 🔭 I’m currently working on [RentSmart: Smart Rental Hub](https://github.com/gothami-dikmadugoda/smart-rental-hub.git)
 
 - 🌱 I’m currently learning **Android Studio & Mobile App Development**
