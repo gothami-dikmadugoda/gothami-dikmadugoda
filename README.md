@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Gothami Chamodika</h1>
+<h1 align="center">Hi 👋, I'm Gothami Dikmadugoda</h1>
 <h3 align="center">A creative problem solver diving into code, design, and innovation</h3>
 
-- 🔭 I’m currently working on [RentSmart: Smart Rental Hub](https://github.com/gothami-dikmadugoda/smart-rental-hub.git)
+- 🔭 I’m currently working on [TGMRentify: Android Mobile Application ](https://github.com/gothami-dikmadugoda/tgm-rentify-android-mobile-application.git)
 
 - 🌱 I’m currently learning **Android Studio & Mobile App Development**
 
