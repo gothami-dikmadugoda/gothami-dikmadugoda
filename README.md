@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gothami Dikmadugoda</h1>
 <h3 align="center">A creative problem solver diving into code, design, and innovation</h3>
 
+<p align="left"> 
+  <img src="komarev.com" alt="gothami-dikmadugoda" /> 
+</p>
+
+
 - 🔭 I’m currently working on [TGMRentify: Android Mobile Application ](https://github.com/gothami-dikmadugoda/tgm-rentify-android-mobile-application.git)
 
 - 🌱 I’m currently learning **Android Studio & Mobile App Development**
