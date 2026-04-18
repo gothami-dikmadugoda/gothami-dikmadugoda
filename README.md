@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [TGMRentify: Android Mobile Application ](https://github.com/gothami-dikmadugoda/tgm-rentify-android-mobile-application.git)
 
-- 🌱 I’m currently learning **Android Studio & Mobile App Development**
+- 🌱 I’m currently learning **Machine Leaning**
 
-- 👯 I’m looking to collaborate on **Web Development Projects (Full-stack / Community platforms)**
+- 👯 I’m looking to collaborate on **Mobile App Development Projects (Full-stack / Community platforms)**
 
-- 💬 Ask me about **Web development (Java, Servlets, JSP, MySQL) | Android App Development (Kotlin basics)**
+- 💬 Ask me about **Web development (Java, Servlets, JSP, MySQL) | Android App Development (Kotlin)**
 
 - 📫 How to reach me **Email: gothamidikmadugoda@gmail.com | LinkedIn: https://www.linkedin.com/in/gothami-chamodika**
 
