@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gothami-dikmadugoda&label=Profile%20views&color=0e75b6&style=flat" alt="gothami-dikmadugoda" /> </p>
 
-- 🔭 I’m currently working on [TGMRentify: Android Mobile Application ](https://github.com/gothami-dikmadugoda/tgm-rentify-android-mobile-application.git)
+- 🔭 Currently working on **TGM SceneX** — an intelligent talent discovery platform for the media industry.
 
 - 🌱 I’m currently learning **Machine Leaning**
 
-- 👯 I’m looking to collaborate on **Mobile App Development Projects (Full-stack / Community platforms)**
-
-- 💬 Ask me about **Web development (Java, Servlets, JSP, MySQL) | Android App Development (Kotlin)**
+- 👯 I’m looking to collaborate on **Mobile App Development Projects, Full-Stack Systems, Community Platforms, Data Analytics & Visualization   , UI/UX Design, and Intelligent Software Solutions**
 
 - 📫 How to reach me **Email: gothamidikmadugoda@gmail.com | LinkedIn: https://www.linkedin.com/in/gothami-chamodika**
 
