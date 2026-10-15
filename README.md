@@ -1,56 +1,34 @@
-<div align="center">
-  <h1>Hi 👋, I'm Gothami Dikmadugoda</h1>
-  <p><strong>Full-Stack & Android Developer | Crafting scalable web apps & intuitive mobile experiences</strong></p>
+# Gothami Dikmadugoda
 
-  <p>
-    <a href="https://linkedin.com/in/gothami-chamodika" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:gothamidikmadugoda@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+Software Engineer specializing in native mobile applications and full-stack web systems. Currently pursuing a **BSc (Hons) in Computer Science with Data Science**, with a strong interest in building scalable, data-driven platforms and intuitive digital products.
 
-  <img src="https://komarev.com/ghpvc/?username=gothami-dikmadugoda&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gothami-chamodika)
+![Profile Views](https://komarev.com/ghpvc/?username=gothami-dikmadugoda&label=Profile%20Views&color=4A5568&style=flat)
 
 ---
 
-### 🚀 About Me
+### Highlights & Current Focus
 
-- 💼 **Full-Stack Developer Intern** working on enterprise web applications and dynamic user interfaces.
-- 🔭 **Current Focus:** Engineering cloud-integrated mobile platforms and modular full-stack web solutions.
-- 🌱 **Learning & Exploring:** Machine Learning fundamentals, cloud architectures, and modern system design.
-- 👯 **Open to Collaborate On:** 
-  - Native Android development (Kotlin / MVVM / Firebase)
-  - Full-stack web platforms (Next.js, React, Node.js, Express)
-  - UI/UX & interactive digital tools
-- ⚡ **Fun Fact:** Great software isn’t just functional — it should simplify complexity and make everyday lives genuinely easier.
+- 🎓 **Education:** BSc (Hons) in Computer Science with Data Science
+- 💼 **Focus Areas:** Native Android (Kotlin, MVVM), Full-Stack Web Development, Applied Data Science
+- 🔭 **Featured Project:** Architecting **TGM SceneX** — an intelligent media casting and talent discovery platform
+- 🌱 **Continuous Learning:** Machine learning pipelines, predictive modeling, and cloud architecture
+- 🤝 **Collaboration:** Open to work on data-intensive web apps, mobile systems, and open-source tooling
 
 ---
 
-### 🛠️ Languages & Technologies
+### Technical Competencies
 
-**Mobile & Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=android,kotlin,java,react,nextjs,tailwind,bootstrap,html,css,js,ts" />
-</p>
-
-**Backend & Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,firebase" />
-</p>
-
-**Tools & Environment**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,androidstudio,vscode" />
-</p>
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Mobile Development** | Kotlin, Java, Android SDK, MVVM Architecture, XML Layouts |
+| **Frontend Web** | React, Next.js, JavaScript (ES6+), TypeScript, Tailwind CSS, HTML5, CSS3 |
+| **Backend & APIs** | Node.js, Express, PHP, RESTful APIs |
+| **Data & Databases** | Firebase (Firestore/Realtime), MySQL, Microsoft SQL Server, Data Analysis & Modeling |
+| **Tools & Platforms** | Git, GitHub, Android Studio, VS Code, Postman, Figma |
 
 ---
 
-### 📊 GitHub Activity
+### Engineering Philosophy
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gothami-dikmadugoda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gothami-dikmadugoda&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</div>
+> Great code balances structural reliability with human usability — engineering systems that are robust under the hood and seamless to interact with.
