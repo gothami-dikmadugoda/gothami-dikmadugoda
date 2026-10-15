@@ -11,7 +11,7 @@ Software Engineer specializing in native mobile applications and full-stack web 
 
 - 🎓 **Education:** BSc (Hons) in Computer Science with Data Science
 - 💼 **Focus Areas:** Native Android (Kotlin, MVVM), Full-Stack Web Development, Applied Data Science
-- 🔭 **Featured Project:** Architecting **TGM SceneX** — an intelligent media casting and talent discovery platform
+- 🔭 **Featured Project:** Architecting **TGM SceneX** - an intelligent media casting and talent discovery platform
 - 🌱 **Continuous Learning:** Machine learning pipelines, predictive modeling, and cloud architecture
 - 🤝 **Collaboration:** Open to work on data-intensive web apps, mobile systems, and open-source tooling
 
@@ -31,4 +31,4 @@ Software Engineer specializing in native mobile applications and full-stack web 
 
 ### Engineering Philosophy
 
-> Great code balances structural reliability with human usability — engineering systems that are robust under the hood and seamless to interact with.
+> Great code balances structural reliability with human usability - engineering systems that are robust under the hood and seamless to interact with.
